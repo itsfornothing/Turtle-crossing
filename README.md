@@ -1,1 +1,1 @@
-# Turtle-crossing
+The Turtle Crossing Game is a fun and interactive game built using the Python turtle module. The objective of the game is to help the turtle cross the road without getting hit by the moving cars. As the player progresses, the speed of the cars increases, making the game more challenging.
